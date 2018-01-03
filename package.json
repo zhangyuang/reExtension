@@ -1,0 +1,14 @@
+{
+  "name": "reextension",
+  "version": "1.0.0",
+  "description": "批量替换文件后缀名",
+  "main": "index.js",
+  "bin": {
+    "re": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangyuang",
+  "license": "ISC"
+}
