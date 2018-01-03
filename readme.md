@@ -4,3 +4,5 @@ npm i -g reextension
 re [path] [oldExtension] [newExtension]
 
 示例： re . .tpl .njk
+
+![](image/demo.jpeg)
